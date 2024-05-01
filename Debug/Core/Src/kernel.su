@@ -1,0 +1,16 @@
+../Core/Src/kernel.c:26:6:osCreateThread	24	static
+../Core/Src/kernel.c:55:6:osCreateThreadWithDeadline	32	static
+../Core/Src/kernel.c:84:6:osKernelInitialize	4	static
+../Core/Src/kernel.c:94:6:osKernelStart	8	static
+../Core/Src/kernel.c:103:6:osSched	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:110:11:New_Stack_Allocation	16	static
+../Core/Src/kernel.c:121:5:__io_putchar	16	static
+../Core/Src/kernel.c:127:6:print_continuosly	8	static
+../Core/Src/kernel.c:133:6:print_t1	24	static
+../Core/Src/kernel.c:144:6:print_t2	8	static
+../Core/Src/kernel.c:153:6:print_failure	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:159:6:print_no_love	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:164:6:print_cont	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:169:6:osYield	4	static,ignoring_inline_asm
+../Core/Src/kernel.c:176:6:jumpAssembly	16	static,ignoring_inline_asm
+../Core/Src/kernel.c:182:6:SVC_Handler_Main	24	static,ignoring_inline_asm
